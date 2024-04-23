@@ -1,0 +1,23 @@
+
+
+RewriteEngine On
+
+# Set the base for the rewrites (assuming root of the subdomain)
+RewriteBase /
+
+# Redirect requests for index.html to the root
+RewriteCond %{THE_REQUEST} /index\.html\s
+RewriteRule ^index\.html$ / [R=301,L]
+
+# Redirect direct .html access back to clean URL
+RewriteCond %{THE_REQUEST} \.html\s
+RewriteRule ^(.+)\.html$ /$1 [R=301,L]
+
+# Ensure the requested URL is not a directory
+RewriteCond %{SCRIPT_FILENAME} !-d
+
+# Ensure the resulting .html file exists
+RewriteCond %{REQUEST_FILENAME}.html -f
+
+# Rewrite the URL to add the .html extension
+RewriteRule ^([^.]+)$ $1.html [NC,L]
