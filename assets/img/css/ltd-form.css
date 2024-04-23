@@ -1,0 +1,66 @@
+.ltd-form-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #004658;
+}
+
+.select-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+.ltd-form label {
+  font-weight: 300;
+  border-radius: 7px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+
+  -webkit-box-pack: center;
+
+  -ms-flex-pack: center;
+
+  justify-content: center;
+}
+
+.select-group label {
+  border-radius: 3px;
+  -webkit-box-shadow: 1px 1px 4px 1px #d7d7d7d4;
+  box-shadow: 1px 1px 4px 1px #d7d7d7d4;
+  padding: 10px 12px;
+}
+
+.ltd-form textarea {
+  max-width: 100%;
+}
+.select-group.select-group__center-text label {
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 767px) {
+  .select-group {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .select-group.select-group__center-text label {
+    -ms-flex-preferred-size: 100px;
+    flex-basis: 100px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+  }
+}

@@ -1,0 +1,93 @@
+[09-Nov-2023 08:00:18 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[10-Nov-2023 06:00:25 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[12-Nov-2023 14:15:46 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[14-Nov-2023 12:09:28 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[19-Nov-2023 12:03:04 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[22-Nov-2023 01:35:04 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[22-Nov-2023 01:36:24 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[14-Dec-2023 08:13:06 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[14-Dec-2023 13:55:34 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[17-Dec-2023 19:57:33 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[19-Dec-2023 11:55:40 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[19-Dec-2023 19:25:58 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[20-Dec-2023 02:26:40 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[20-Dec-2023 09:13:58 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[22-Dec-2023 06:15:47 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[22-Dec-2023 08:13:36 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[24-Dec-2023 10:02:06 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[25-Dec-2023 01:02:00 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[29-Dec-2023 09:53:14 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[29-Dec-2023 20:42:16 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[03-Jan-2024 10:06:07 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[04-Jan-2024 00:52:34 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[04-Jan-2024 07:37:12 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[09-Jan-2024 06:03:24 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[13-Jan-2024 21:48:16 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[22-Jan-2024 07:58:05 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[08-Feb-2024 01:13:16 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[08-Feb-2024 03:48:42 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[08-Feb-2024 04:58:48 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[08-Feb-2024 07:19:03 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[10-Feb-2024 04:07:26 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[12-Feb-2024 15:24:55 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[13-Feb-2024 01:37:12 America/New_York] PHP Fatal error:  Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[17-Feb-2024 21:45:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[18-Feb-2024 12:18:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[23-Feb-2024 03:58:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[23-Feb-2024 11:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[23-Feb-2024 14:42:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[23-Feb-2024 15:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[28-Feb-2024 00:41:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[28-Feb-2024 15:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[28-Feb-2024 19:53:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[04-Mar-2024 18:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[04-Mar-2024 18:59:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[05-Mar-2024 13:15:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[09-Mar-2024 03:54:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[20-Mar-2024 15:40:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36
+[29-Mar-2024 06:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lankparb/lankatours.at/PHPMailer/src/OAuth.php on line 36

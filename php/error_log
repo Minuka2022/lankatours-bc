@@ -1,0 +1,360 @@
+[09-Oct-2021 19:59:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lankparb/lankatours.at/php/PDBC.php on line 8
+[10-Nov-2023 06:13:56 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[10-Nov-2023 06:13:56 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[10-Nov-2023 11:31:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[10-Nov-2023 13:11:03 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[12-Nov-2023 12:19:10 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[12-Nov-2023 13:59:37 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[12-Nov-2023 22:34:17 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[12-Nov-2023 22:34:17 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[14-Nov-2023 05:29:46 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[14-Nov-2023 05:29:46 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[14-Nov-2023 10:52:44 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[14-Nov-2023 15:20:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[19-Nov-2023 00:00:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[19-Nov-2023 07:14:01 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[19-Nov-2023 07:14:01 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[19-Nov-2023 08:36:55 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[22-Nov-2023 01:34:38 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[22-Nov-2023 01:34:38 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[22-Nov-2023 01:34:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[22-Nov-2023 01:34:47 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[22-Nov-2023 01:35:58 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[22-Nov-2023 01:35:58 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[22-Nov-2023 01:36:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[22-Nov-2023 01:36:08 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[25-Nov-2023 05:14:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[26-Nov-2023 21:00:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[27-Nov-2023 23:31:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[28-Nov-2023 11:25:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[29-Nov-2023 09:00:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[13-Dec-2023 06:06:41 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[13-Dec-2023 06:06:41 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[14-Dec-2023 00:52:28 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[14-Dec-2023 02:33:56 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[14-Dec-2023 02:33:56 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[14-Dec-2023 10:02:07 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[14-Dec-2023 10:02:07 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[14-Dec-2023 11:42:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[19-Dec-2023 09:11:34 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[19-Dec-2023 09:11:34 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[19-Dec-2023 10:27:32 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[19-Dec-2023 10:27:44 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[19-Dec-2023 11:31:22 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[22-Dec-2023 03:23:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[22-Dec-2023 04:30:38 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[22-Dec-2023 11:29:13 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[22-Dec-2023 11:29:13 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[24-Dec-2023 07:05:20 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[24-Dec-2023 15:47:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[24-Dec-2023 21:24:50 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[24-Dec-2023 21:24:50 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[29-Dec-2023 06:44:11 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[29-Dec-2023 16:26:21 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[29-Dec-2023 16:26:21 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[03-Jan-2024 13:19:18 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[03-Jan-2024 13:19:18 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[03-Jan-2024 19:48:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[03-Jan-2024 21:32:14 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[08-Jan-2024 18:27:09 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[08-Jan-2024 18:27:09 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[09-Jan-2024 08:32:09 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[09-Jan-2024 09:20:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[13-Jan-2024 16:07:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[22-Jan-2024 07:54:16 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[22-Jan-2024 07:54:16 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[22-Jan-2024 08:02:07 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[22-Jan-2024 08:23:56 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[07-Feb-2024 17:38:07 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[07-Feb-2024 22:17:08 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[07-Feb-2024 22:17:08 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[08-Feb-2024 00:24:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[10-Feb-2024 04:16:51 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[10-Feb-2024 04:18:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[10-Feb-2024 04:18:45 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[10-Feb-2024 04:18:45 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[13-Feb-2024 00:02:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 9
+[13-Feb-2024 00:53:53 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[13-Feb-2024 03:42:26 America/New_York] PHP Notice:  Undefined index: id in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[13-Feb-2024 03:42:26 America/New_York] PHP Notice:  Undefined index: rating in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[13-Feb-2024 04:46:15 America/New_York] PHP Notice:  Undefined index: page in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[17-Feb-2024 12:08:16 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[17-Feb-2024 19:55:56 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[17-Feb-2024 19:55:56 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[17-Feb-2024 19:55:56 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[18-Feb-2024 02:03:23 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[18-Feb-2024 02:03:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[18-Feb-2024 06:27:09 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[18-Feb-2024 07:44:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[18-Feb-2024 07:44:34 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[18-Feb-2024 07:44:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[18-Feb-2024 13:01:58 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[18-Feb-2024 13:01:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[18-Feb-2024 13:16:35 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[18-Feb-2024 13:16:35 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[18-Feb-2024 13:16:35 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[18-Feb-2024 16:31:26 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[18-Feb-2024 16:31:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[20-Feb-2024 21:47:19 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[20-Feb-2024 21:47:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[22-Feb-2024 20:22:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[22-Feb-2024 20:22:05 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[22-Feb-2024 20:22:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[23-Feb-2024 04:24:19 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[23-Feb-2024 04:24:19 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[23-Feb-2024 04:24:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[23-Feb-2024 08:45:20 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[23-Feb-2024 08:45:20 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[23-Feb-2024 08:52:59 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[23-Feb-2024 09:59:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[23-Feb-2024 11:14:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[23-Feb-2024 11:14:24 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[23-Feb-2024 11:14:24 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[23-Feb-2024 14:04:36 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[23-Feb-2024 14:04:36 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[23-Feb-2024 14:17:29 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[23-Feb-2024 14:17:29 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[23-Feb-2024 14:17:29 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[23-Feb-2024 14:49:54 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[23-Feb-2024 16:08:10 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[23-Feb-2024 16:08:10 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[28-Feb-2024 02:59:17 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[28-Feb-2024 02:59:17 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[28-Feb-2024 03:09:30 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[28-Feb-2024 03:09:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[28-Feb-2024 15:58:04 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[28-Feb-2024 15:58:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[28-Feb-2024 20:04:16 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[28-Feb-2024 20:04:16 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[28-Feb-2024 21:37:13 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[05-Mar-2024 06:05:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[05-Mar-2024 06:05:34 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[05-Mar-2024 06:05:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[05-Mar-2024 09:54:00 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[05-Mar-2024 09:54:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[05-Mar-2024 10:27:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[05-Mar-2024 13:40:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[05-Mar-2024 16:20:08 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[05-Mar-2024 16:20:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[08-Mar-2024 17:32:02 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[08-Mar-2024 17:32:02 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[09-Mar-2024 02:11:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[09-Mar-2024 02:33:11 America/New_York] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[09-Mar-2024 02:33:11 America/New_York] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[09-Mar-2024 02:33:11 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[09-Mar-2024 05:13:41 America/New_York] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[09-Mar-2024 05:13:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[20-Mar-2024 15:35:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[20-Mar-2024 15:35:53 UTC] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[20-Mar-2024 15:35:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[20-Mar-2024 15:36:32 UTC] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[20-Mar-2024 15:36:32 UTC] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[20-Mar-2024 15:36:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[23-Mar-2024 16:30:10 UTC] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[23-Mar-2024 16:30:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[29-Mar-2024 00:20:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[29-Mar-2024 04:13:08 UTC] PHP Warning:  Undefined array key "id" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 3
+[29-Mar-2024 04:13:08 UTC] PHP Warning:  Undefined array key "rating" in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 4
+[29-Mar-2024 04:13:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/updatehotelratings.php:9
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/updatehotelratings.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/updatehotelratings.php on line 9
+[02-Apr-2024 13:25:05 UTC] PHP Warning:  Undefined array key "page" in /home/lankparb/lankatours.at/php/loadblogs.php on line 5
+[02-Apr-2024 13:25:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1 in /home/lankparb/lankatours.at/php/loadblogs.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/loadblogs.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/loadblogs.php on line 7
+[02-Apr-2024 14:00:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[10-Apr-2024 11:59:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[11-Apr-2024 18:52:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[13-Apr-2024 10:59:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[14-Apr-2024 20:12:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[15-Apr-2024 20:09:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[18-Apr-2024 07:17:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
+[19-Apr-2024 10:04:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lankparb_tours.hotel_ratings' doesn't exist in /home/lankparb/lankatours.at/php/selecthotelratings.php:7
+Stack trace:
+#0 /home/lankparb/lankatours.at/php/selecthotelratings.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/lankparb/lankatours.at/php/selecthotelratings.php on line 7
